@@ -1,0 +1,8 @@
+<class 'datetime.datetime'>;staff;ляляляял
+<class 'datetime.datetime'>;staff;ляляляял
+Thu Oct 20 19:17:50 2022;HR;ghbdtn
+Fri Oct 21 02:50:40 2022;HR;sdas
+Fri Oct 21 03:06:55 2022;HR Department;добавлен сотрудник Пупкин Вася
+Fri Oct 21 03:07:43 2022;HR Department;удален сотрудник Иванов Иван
+Fri Oct 21 03:08:06 2022;HR Department;внесены изменения имя Иванов Петр
+Fri Oct 21 03:08:06 2022;HR Department;перезаписан список сотрудников Fri Oct 28 00:22:41 2022;HR Department;добавлен сотрудник Рейкин Антон
